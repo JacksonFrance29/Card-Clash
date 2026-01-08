@@ -15,8 +15,7 @@ src/
 ├── Deck.java      // Creates, stores, and shuffles the deck
 ├── Player.java    // Manages a player's hand and actions
 └── CardClash.java // Main game loop and simulation logic
-///
-
+```
 
 ## How It Works
 1. A standard 52-card deck is created and shuffled.
